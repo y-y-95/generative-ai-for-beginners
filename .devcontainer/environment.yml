@@ -1,4 +1,4 @@
-name: dev
+name: ai4beg
 channels:
  - defaults
 dependencies:
